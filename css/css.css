@@ -1,0 +1,32 @@
+
+img{
+    width: 250px;
+    height: 230px;
+}
+
+
+h1{
+    color: rgb(14, 14, 56);
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: solid;
+    background-color: lightcoral;
+}
+
+h2{color:lightskyblue;
+   background-color: rgb(14, 14, 56);
+}
+
+*{ 
+    margin: 30px;
+    text-align: center;
+}
+
+body{
+    background-color: bisque;
+}
+
+p{
+
+    background-color: lightslategray;
+    color: beige;
+}
